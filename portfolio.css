@@ -1,0 +1,43 @@
+nav{
+    font-size: 10px;
+    float: right;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 70px;
+    color: black;
+}
+nav ul{
+    list-style: none;
+}
+nav li{
+    display: inline-block;
+    margin-left: 20px;
+    margin-right:20px;
+    color: black;
+    position: relative;
+    padding-bottom: 30px;
+}
+nav a{
+    color:white;
+    text-decoration:none;
+    font-size: 20px;
+    margin: 5px;
+    padding-top: 100px;
+}
+nav a:hover{
+    color: #34ebe1;
+}
+
+.picright{
+    float: right;
+    border: 8px rgb(136, 135, 135) solid;
+}
+h4{
+    color: white;
+}
+footer{
+    color:gray;
+}
+.edu{
+    color:white;
+}
